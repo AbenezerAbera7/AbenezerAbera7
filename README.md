@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Software Enginerring...
 - 🌱 I’m currently learning Computer Science at Addis Ababa University, Ethiopia 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 📫 How to reach me:
 - Email  -  abenynin2314@gmail.com
 - Phone  -  +251925608790
 - Linkedin -  https://www.linkedin.com/in/abeny-abera-liyu92314

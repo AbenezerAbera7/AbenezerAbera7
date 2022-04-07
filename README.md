@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - Email  -  abenynin2314@gmail.com
-- Phone  -  +251925608790
+- Phone or WhatsApp  -  +251925608790
 - Linkedin -  https://www.linkedin.com/in/abeny-abera-liyu92314
 
 <!---

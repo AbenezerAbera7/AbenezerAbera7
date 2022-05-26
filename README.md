@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Abenezer.
-- 👀 I’m interested in Programming, Software Enginerring...
-- 🌱 I’m currently learning Computer Science at Addis Ababa University, Ethiopia 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+Contact me:
 - Email  -  abenynin2314@gmail.com
 - Phone or WhatsApp  -  +251925608790
 - Linkedin - https://www.linkedin.com/in/abenina14

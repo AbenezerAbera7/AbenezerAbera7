@@ -5,13 +5,13 @@
 
 ## My GitHub Status
 <!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abenina148&show_icons=true&theme=prussian)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edilcc8&show_icons=true&theme=prussian)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abenina14&theme=prussian)
 -->
 
-[![Linkedin: Abenezer](https://img.shields.io/badge/-Abenezer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abenina14/)](https://www.linkedin.com/in/abenina14/)
-[![GitHub Abenina14](https://img.shields.io/github/followers/Abenina14?label=follow&style=social)](https://github.com/Abenina14)
+[![Linkedin: Abenezer](https://img.shields.io/badge/-Abenezer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Edilcc/)](https://www.linkedin.com/in/Edilcc/)
+[![GitHub Edilcc](https://img.shields.io/github/followers/Abenina14?label=follow&style=social)](https://github.com/Edilcc)
 
 
 ### Languages I Speak💻 🌐
@@ -38,12 +38,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://github.com/Abenina14"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=Abenina14&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenina14&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
+<a href="https://github.com/Edilcc"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=Edilcc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilcc&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
 
 
-contact me:
+Contact me:
 - Phone or WhatsApp  -  +251925608790
 <!---
-Abenina14/Abenina14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Edilcc/Edilcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

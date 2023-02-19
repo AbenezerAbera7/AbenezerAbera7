@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abenezer
 
--  Hard-working University student major in Computer Science with a passion for Software Engineering. Has at least two years of Self-Paced practical knowledge on HTML, CSS, JavaScript, C, C++, Python, Algorithm(Problem Solving), PHP and Shell Script. I am eager to take this knowledge bring into practical working industry. Despite academic knowledge skilled in Communication, Interpersonal Skills, Teamwork and Leadership.
+-  A motivated and detail-oriented computer science student with a passion for problem-solving and creative mind. Proficient in back-end development with strong understanding of databases and server-side technologies and ability to work collaboratively and drive project from conception to implementation.
 
 
 ## My GitHub Status

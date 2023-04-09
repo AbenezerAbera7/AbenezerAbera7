@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abenezer
 
--  A motivated and detail-oriented computer science student with a passion for problem-solving and creative mind. Proficient in back-end development with strong understanding of databases and server-side technologies and ability to work collaboratively and drive project from conception to implementation.I am looking for an internship that I collaborate with backend technolgies such as NodeJS, Express and MongoDB
+-  A motivated and detail-oriented computer science student with a passion for problem-solving and creative mind. Proficient in back-end development with strong understanding of databases and server-side technologies and ability to work collaboratively and drive project from conception to implementation.I am looking for an internship that I collaborate with backend technolgies such as C#(.net), NodeJS(Express), and MongoDB or PostgreSQL
 
 
 ## My GitHub Status

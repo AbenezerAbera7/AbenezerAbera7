@@ -10,8 +10,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edilcc&theme=prussian)
 -->
 
-[![Linkedin: Abenezer](https://img.shields.io/badge/-Abenezer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Edilcc/)](https://www.linkedin.com/in/Edilcc/)
-[![GitHub Edilcc](https://img.shields.io/github/followers/Edilcc?label=follow&style=social)](https://github.com/Edilcc)
+[![Linkedin: Abenezer](https://img.shields.io/badge/-Abenezer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbenezerAberaa/)](https://www.linkedin.com/in/AbenezerAberaa/)
+[![GitHub AbenezerAberaa](https://img.shields.io/github/followers/AbenezerAberaa?label=follow&style=social)](https://github.com/AbenezerAberaa)
 
 
 ### Languages I Speak💻 🌐
@@ -46,9 +46,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://github.com/Edilcc"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=Edilcc&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilcc&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
+<a href="https://github.com/AbenezerAberaa"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=AbenezerAberaa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAberaa&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight" /></a>
 
-![](https://komarev.com/ghpvc/?username=Edilcc)
+![](https://komarev.com/ghpvc/?username=AbenezerAberaa)
 
 
 Contact me:

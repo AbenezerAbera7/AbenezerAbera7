@@ -1,13 +1,20 @@
 ### Hi there 👋 I'm Abenezer
 
--  A motivated and detail-oriented computer science student with a passion for problem-solving and creative mind. Proficient in back-end development with strong understanding of databases and server-side technologies and ability to work collaboratively and drive project from conception to implementation.I am looking for an internship that I collaborate with backend technolgies such as C#(.net), NodeJS(Express), and MongoDB or PostgreSQL
+- Highly skilled and results-driven Software Engineer with a strong
+specialization in Backend Development. Leveraging an in-depth
+understanding of programming languages, data structures, and
+algorithms, I am committed to designing and implementing robust and
+scalable solutions for complex software systems. With a passion for
+creating efficient and reliable backend architectures, I thrive in
+dynamic environments that challenge me to solve intricate technical
+problems.
 
 
 ## My GitHub Status
 <!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edilcc8&show_icons=true&theme=prussian)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbenezerAberaac8&show_icons=true&theme=prussian)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edilcc&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAberaa&theme=prussian)
 -->
 
 [![Linkedin: Abenezer](https://img.shields.io/badge/-Abenezer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbenezerAberaa/)](https://www.linkedin.com/in/AbenezerAberaa/)

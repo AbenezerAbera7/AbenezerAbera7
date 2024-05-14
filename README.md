@@ -60,7 +60,7 @@ problems.
 
 Contact me:
 - Phone or WhatsApp  -  +251925608790 / +251936308989
-- Telegram: [Abenezer](https://t.me/Abenezer_abera7)
+- Telegram: [Abenezer](https://t.me/Abenezer_A)
 <!---
 Edilcc/Edilcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

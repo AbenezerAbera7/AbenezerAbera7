@@ -57,26 +57,17 @@
 
 ## 🎓 Education
 
-**Software Engineer**  
+**Computer Science Graduate**  
 *Addis Ababa University*  
-Graduated with a comprehensive degree in Computer Science, developing a solid foundation in software engineering principles and practices. Passionate about problem-solving and experienced in leadership roles.  
+Graduated with a degree in Computer Science, gaining a strong foundation in algorithms, software development, and problem-solving. Passionate about technology and experienced in leadership roles.  
 *12/2016 – 07/2020, Addis Ababa, Ethiopia*
 
 ---
 
 ## 💼 Professional Experience
 
-**Software Engineer Intern - Eskalate Africa**  
-*06/2022 – 07/2023, Addis Ababa, Ethiopia*  
-- Led a backend development team using Python, Django, and Agile practices.
-- Collaborated on Rideshare team to faciliatate seamless transportation.
-
----
-
-## 📂 Projects
-
 ### Afrochat - Backend Engineer  
-*09/2023 – 07/2024*  
+*01/2023 – Present*  
 - Facilitated a 30% improvement in NLP accessibility across Africa by integrating
 advanced natural language processing features, boosting platform engagement
 for thousands of users.
@@ -86,8 +77,26 @@ growing user demand.
 - Revamped customer retention by 15% through implementing personalized AI-
 powered services, enabling users to access affordable AI solutions.
 
+### Rideshare - Backend Team Lead and Backend Engineer  
+*08/2023 – 12/2024*  
+- Streamlined operational efficiency by 25% through leading comprehensive code
+reviews and refactoring Python backend systems, reducing redundant logic and
+improving performance.
+- Accelerated deployment speed by 30% by designing and implementing CI/CD
+pipelines, leading to faster and more stable production releases.
+- Elevated team productivity by mentoring 3 developers, implementing advanced
+algorithms, and integrating modern web functionalities.
+
+### EQUB - Full-Stack Engineer  
+*01/2021 – 12/2022*  
+- Optimized platform performance by 20% by developing the backend of the Equb
+app, a digital platform for traditional Ethiopian savings, using Python and
+PostgreSQL.
+- Accelerated mobile app responsiveness by 25% through optimizing React Native
+for mobile development, providing a faster and more intuitive user experience.
+
 ### Dowell Research UK Limited - Python Developer  
-*03/2023 – 02/2024*  
+*08/2019 – 12/2020*  
 - Developed the Contact Form Extractor tool, processing over 10,000 contact forms
 monthly from various sources.
 - Enhanced tool performance by implementing asynchronous programming with
@@ -97,11 +106,10 @@ improve the accuracy of form extraction by 15%.
 - Built and maintained robust APIs in Python and Flask, ensuring seamless data
 access and submission for over 200 users.
 
-### Rideshare - Backend Team Lead and Backend Engineer  
-*11/2021 – 01/2023*  
-- Empowered users to give and consume detailed item-specific reviews, showcasing businesses' growth points.
-- Provided efficient backend solutions for enhancing the dining experience using Node.js and MongoDB.
-
+**Software Engineer Intern - Eskalate Africa**  
+*04/2019 – 12/2019, Addis Ababa, Ethiopia*  
+- Led a backend development team using Python, Django, and Agile practices.
+- Collaborated on Rideshare team to faciliatate seamless transportation.
 ---
 
 ## 🏆 Awards

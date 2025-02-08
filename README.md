@@ -4,8 +4,8 @@
 
 📧 [abenezer.abera623@gmail.com](mailto:abenezer.abera623@gmail.com)  
 📞 +251925608790 / +251936308989
-Telegram: [Abenezer](https://t.me/Beny653)
-🌍 Addis Ababa, Ethiopia  
+![alt text](telegram.png): [Abenezer](https://t.me/Beny653) 
+🌍 Addis Ababa, Ethiopia
 🔗 [LinkedIn](https://www.linkedin.com/in/abenezer-abera7/) | [GitHub](https://github.com/AbenezerAbera7/)
 
 ---

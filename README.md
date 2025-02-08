@@ -16,8 +16,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAberaa&theme=prussian)
 -->
 
-[![Linkedin: Abenezer](https://img.shields.io/badge/-Abenezer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbenezerAberaa/)](https://www.linkedin.com/in/AbenezerAbera/)
-[![GitHub AbenezerAberaa](https://img.shields.io/github/followers/AbenezerAberaa?label=follow&style=social)](https://github.com/AbenezerAberaa)
+[![Linkedin: Abenezer](https://img.shields.io/badge/-Abenezer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbenezerAbera7/)](https://www.linkedin.com/in/AbenezerAbera7/)
+[![GitHub AbenezerAbera7](https://img.shields.io/github/followers/AbenezerAbera7?label=follow&style=social)](https://github.com/AbenezerAbera7)
 
 
 ## 🛠️ Tech Stack and Frameworks ⚙️ 🖥

@@ -115,8 +115,7 @@ access and submission for over 200 users.
 ## 🏆 Awards
 
 **500+ Problems Solved on Leetcode and Codeforces**  
-- Mastered algorithmic thinking through the successful resolution of over 500 problems on Leetcode and Codeforces platforms.  
-*04/2024*
+- Mastered algorithmic thinking through the successful resolution of over 500 problems on Leetcode and Codeforces platforms. 
 
 ---
 

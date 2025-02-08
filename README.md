@@ -68,8 +68,8 @@ Graduated with a comprehensive degree in Computer Science, developing a solid fo
 
 **Software Engineer Intern - Eskalate Africa**  
 *06/2022 – 07/2023, Addis Ababa, Ethiopia*  
-- Led a web development team using Next.js, Redux Toolkit, and Agile practices.
-- Collaborated on Hakim Hub to enhance patient-doctor-hospital connections.
+- Led a backend development team using Python, Django, and Agile practices.
+- Collaborated on Rideshare team to faciliatate seamless transportation.
 
 ---
 
@@ -77,14 +77,25 @@ Graduated with a comprehensive degree in Computer Science, developing a solid fo
 
 ### Afrochat - Backend Engineer  
 *09/2023 – 07/2024*  
-- Developed and maintained backend services for automated grading, secure exam management, and plagiarism detection.
-- Implemented database schemas and APIs to support interactive coding environments and performance tracking.
-- Ensured system scalability and security to enhance the overall educational experience for users.
+- Facilitated a 30% improvement in NLP accessibility across Africa by integrating
+advanced natural language processing features, boosting platform engagement
+for thousands of users.
+- Enhanced platform scalability by developing and deploying key features using
+Python and React, resulting in a 25% increase in system capacity to support
+growing user demand.
+- Revamped customer retention by 15% through implementing personalized AI-
+powered services, enabling users to access affordable AI solutions.
 
 ### Dowell Research UK Limited - Python Developer  
 *03/2023 – 02/2024*  
-- Revolutionized healthcare access by connecting patients, doctors, and hospitals seamlessly.
-- Ensured timely access to quality medical services through intuitive features and cutting-edge technology.
+- Developed the Contact Form Extractor tool, processing over 10,000 contact forms
+monthly from various sources.
+- Enhanced tool performance by implementing asynchronous programming with
+asyncio and Celery, reducing processing time by 30%.
+- Integrated machine learning models using TensorFlow and scikit-learn to
+improve the accuracy of form extraction by 15%.
+- Built and maintained robust APIs in Python and Flask, ensuring seamless data
+access and submission for over 200 users.
 
 ### Rideshare - Backend Team Lead and Backend Engineer  
 *11/2021 – 01/2023*  
@@ -95,7 +106,7 @@ Graduated with a comprehensive degree in Computer Science, developing a solid fo
 
 ## 🏆 Awards
 
-**850+ Problems Solved on Leetcode and Codeforces**  
+**500+ Problems Solved on Leetcode and Codeforces**  
 - Mastered algorithmic thinking through the successful resolution of over 500 problems on Leetcode and Codeforces platforms.  
 *04/2024*
 

@@ -60,14 +60,14 @@
 **Computer Science Graduate**  
 *Addis Ababa University*  
 Graduated with a degree in Computer Science, gaining a strong foundation in algorithms, software development, and problem-solving. Passionate about technology and experienced in leadership roles.  
-*12/2016 – 07/2020, Addis Ababa, Ethiopia*
+*12/2019 – 07/2023, Addis Ababa, Ethiopia*
 
 ---
 
 ## 💼 Professional Experience
 
 ### Afrochat - Backend Engineer  
-*01/2023 – Present*  
+*03/2024 – Present*  
 - Facilitated a 30% improvement in NLP accessibility across Africa by integrating
 advanced natural language processing features, boosting platform engagement
 for thousands of users.
@@ -87,13 +87,6 @@ pipelines, leading to faster and more stable production releases.
 - Elevated team productivity by mentoring 3 developers, implementing advanced
 algorithms, and integrating modern web functionalities.
 
-### EQUB - Full-Stack Engineer  
-*01/2021 – 12/2022*  
-- Optimized platform performance by 20% by developing the backend of the Equb
-app, a digital platform for traditional Ethiopian savings, using Python and
-PostgreSQL.
-- Accelerated mobile app responsiveness by 25% through optimizing React Native
-for mobile development, providing a faster and more intuitive user experience.
 
 ### Dowell Research UK Limited - Python Developer  
 *08/2019 – 12/2020*  

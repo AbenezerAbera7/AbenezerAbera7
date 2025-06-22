@@ -55,55 +55,6 @@
 
 ---
 
-## 🎓 Education
-
-**Computer Science Graduate**  
-*Addis Ababa University*  
-Graduated with a degree in Computer Science, gaining a strong foundation in algorithms, software development, and problem-solving. Passionate about technology and experienced in leadership roles.  
-*12/2019 – 07/2023, Addis Ababa, Ethiopia*
-
----
-
-## 💼 Professional Experience
-
-### Afrochat - Backend Engineer  
-*03/2024 – Present*  
-- Facilitated a 30% improvement in NLP accessibility across Africa by integrating
-advanced natural language processing features, boosting platform engagement
-for thousands of users.
-- Enhanced platform scalability by developing and deploying key features using
-Python and React, resulting in a 25% increase in system capacity to support
-growing user demand.
-- Revamped customer retention by 15% through implementing personalized AI-
-powered services, enabling users to access affordable AI solutions.
-
-### Rideshare - Backend Team Lead and Backend Engineer  
-*08/2023 – 12/2024*  
-- Streamlined operational efficiency by 25% through leading comprehensive code
-reviews and refactoring Python backend systems, reducing redundant logic and
-improving performance.
-- Accelerated deployment speed by 30% by designing and implementing CI/CD
-pipelines, leading to faster and more stable production releases.
-- Elevated team productivity by mentoring 3 developers, implementing advanced
-algorithms, and integrating modern web functionalities.
-
-
-### Dowell Research UK Limited - Python Developer  
-*08/2019 – 12/2020*  
-- Developed the Contact Form Extractor tool, processing over 10,000 contact forms
-monthly from various sources.
-- Enhanced tool performance by implementing asynchronous programming with
-asyncio and Celery, reducing processing time by 30%.
-- Integrated machine learning models using TensorFlow and scikit-learn to
-improve the accuracy of form extraction by 15%.
-- Built and maintained robust APIs in Python and Flask, ensuring seamless data
-access and submission for over 200 users.
-
-**Software Engineer Intern - Eskalate Africa**  
-*04/2019 – 12/2019, Addis Ababa, Ethiopia*  
-- Led a backend development team using Python, Django, and Agile practices.
-- Collaborated on Rideshare team to faciliatate seamless transportation.
----
 
 ## 🏆 Awards
 

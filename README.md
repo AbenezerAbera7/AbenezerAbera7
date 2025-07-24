@@ -51,6 +51,16 @@
 
 ---
 
+## **🌟 Soft Skills**  
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Leadership-FF6B6B?style=for-the-badge&logo=people-connect&logoColor=white" alt="Leadership">
+  <img src="https://img.shields.io/badge/Team_Work-4ECDC4?style=for-the-badge&logo=teamwork&logoColor=white" alt="Team Work">
+  <img src="https://img.shields.io/badge/Agile_Development-FFBE0B?style=for-the-badge&logo=agile&logoColor=black" alt="Agile Development">
+</div>
+
+---
+
 ## **🏆 Achievements**  
 
 ✅ 500+ Problems Solved on **[LeetCode](https://leetcode.com/u/Beny623/)**  
@@ -70,4 +80,4 @@
 
 ---
 
-✨ **Let's build something amazing together!** ✨  
+✨ **Let's build something amazing together!** ✨

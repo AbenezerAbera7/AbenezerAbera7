@@ -3,9 +3,7 @@
 
 📧 **Email:** [abenezer.abera623@gmail.com](mailto:abenezer.abera623@gmail.com)  
 📞 **Phone:** +251 936 308 989  
-🌐 **Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abenezer-abera7/) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Beny623)
+🌐 **Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abenezer-abera7/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Beny623)
 
 ---
 
@@ -17,7 +15,6 @@
 </div>
 
 ---
-
 
 ## **🛠️ Tech Stack & Tools**  
 
@@ -56,7 +53,7 @@
 
 ✅ **500+ Problems Solved** on **LeetCode & Codeforces**  
 🚀 **Open-Source Contributor**  
-📜 **Certified Full-Stack Developer**  
+📜 **[Certified Software Engineer](https://savanna.alxafrica.com/certificates/93zXrxEHhM)**  
 
 ---
 

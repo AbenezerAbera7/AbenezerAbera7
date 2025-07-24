@@ -53,11 +53,11 @@
 
 ## **🌟 Soft Skills**  
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/Leadership-FF6B6B?style=for-the-badge&logo=people-connect&logoColor=white" alt="Leadership">
-  <img src="https://img.shields.io/badge/Team_Work-4ECDC4?style=for-the-badge&logo=teamwork&logoColor=white" alt="Team Work">
-  <img src="https://img.shields.io/badge/Agile_Development-FFBE0B?style=for-the-badge&logo=agile&logoColor=black" alt="Agile Development">
-</div>
+- **Leadership**: Experience guiding teams through complex projects and mentoring junior developers  
+- **Team Collaboration**: Proven ability to work effectively in cross-functional teams  
+- **Agile Mindset**: Comfortable working in Scrum environments with iterative development  
+- **Problem Solving**: Strong analytical approach to breaking down challenges  
+- **Communication**: Clear technical documentation and stakeholder updates  
 
 ---
 

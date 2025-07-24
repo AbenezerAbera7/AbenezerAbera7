@@ -63,24 +63,57 @@
 
 ## **💻 Featured Projects**  
 
-### [AfroChat](https://afrochat.app/application/chat/home) - _Next-Gen AI Chat Platform_
-Africa's premier AI assistant supporting multiple languages and cultural contexts. Provides intelligent chat, document processing, and multimodal interactions tailored for African users.  
-🌍 **Core Tech:**  
-`LLM Integration` (GPT-4, Claude 3, Llama 3) • `FastAPI` • `Retrieval Augmented Generation`  
-`Next.js` • `Flutter` • `React` • `Multimodal LLM` • `Prompt Engineering`  
-**Infrastructure:** PostgreSQL • Firebase • Docker • CI/CD Pipelines  
+### [<span style="color:#4CAF50">🌐</span> AfroChat](https://afrochat.app/application/chat/home) - _Next-Gen AI Chat Platform_
+> Africa's premier AI assistant supporting multiple languages and cultural contexts. Provides intelligent chat, document processing, and multimodal interactions tailored for African users.  
 
-### [Pipsqueak NetScan](https://app.pipsqueaknetscan.com/) - _Network Security Auditor_  
-Enterprise-grade tool that transforms raw network scans into actionable security insights with visual dashboards and automated risk scoring.  
-🛡️ **Core Tech:**  
-Python • Django • Data Visualization Libraries  
-**Security Features:** Vulnerability Scanning • Network Mapping • Risk Assessment  
+<div style="margin-left: 20px;">
 
-### [RateEat](https://rateeat.app/en) - _Food Discovery Engine_  
-Social food platform revolutionizing how East Africans discover restaurants and share culinary experiences through crowd-sourced reviews.  
-🍴 **Core Tech:**  
-React Native • Node.js • MongoDB • Geolocation APIs  
-**Features:** Menu-item Reviews • Personalized Recommendations • Social Sharing  
+🌍 **Core Tech Stack:**  
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">LLM Integration</span> <small>(GPT-4, Claude 3, Llama 3)</small> • 
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">FastAPI</span> • 
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">RAG</span>  
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">Next.js</span> • 
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">Flutter</span> • 
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">Multimodal AI</span>  
+
+🔧 **Infrastructure:**  
+PostgreSQL • Firebase • Docker • CI/CD Pipelines  
+
+</div>
+
+---
+
+### [<span style="color:#2196F3">🛡️</span> Pipsqueak NetScan](https://app.pipsqueaknetscan.com/) - _Network Security Auditor_  
+> Enterprise-grade tool that transforms raw network scans into actionable security insights with visual dashboards and automated risk scoring.  
+
+<div style="margin-left: 20px;">
+
+🛠 **Core Architecture:**  
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">Python</span> • 
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">Django</span> • 
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">DataViz</span>  
+
+🔒 **Security Modules:**  
+Vulnerability Scanning • Network Mapping • Risk Assessment  
+
+</div>
+
+---
+
+### [<span style="color:#FF5722">🍴</span> RateEat](https://rateeat.app/en) - _Food Discovery Engine_  
+> Social food platform revolutionizing how East Africans discover restaurants and share culinary experiences through crowd-sourced reviews.  
+
+<div style="margin-left: 20px;">
+
+📱 **Mobile Stack:**  
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">React Native</span> • 
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">Node.js</span> • 
+<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">MongoDB</span>  
+
+✨ **Key Features:**  
+Menu-item Reviews • Personalized Recommendations • Social Sharing  
+
+</div>
 
 ---
 

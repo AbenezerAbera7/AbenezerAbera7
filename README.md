@@ -80,9 +80,10 @@
 
 ## **🏆 Achievements**  
 
-✅ 500+ Problems Solved on **[LeetCode](https://leetcode.com/u/Beny623/)**  
-🚀 **Open-Source Contributor**  
-📜 **[Certified Software Engineer](https://savanna.alxafrica.com/certificates/93zXrxEHhM)**  
+✅ Solved 500+ problems on [LeetCode](https://leetcode.com/u/Beny623/)  
+🎓 [![Certified Software Engineer](https://img.shields.io/badge/ALX-Certified-blue)](https://savanna.alxafrica.com/certificates/93zXrxEHhM)  
+👨‍💻 Open-Source Contributor
+  
 ---
 
 

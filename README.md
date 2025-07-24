@@ -9,15 +9,6 @@
 
 ---
 
-## **🚀 GitHub Stats**  
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://streak-stats.demolab.com?user=AbenezerAbera7&theme=prussian&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAbera7&layout=compact&theme=prussian&hide_border=true" alt="Top Languages">
-</div>
-
----
-
 ## **🛠️ Tech Stack & Tools**  
 
 ### **📌 Languages & Frameworks**  
@@ -94,9 +85,13 @@
 📜 **[Certified Software Engineer](https://savanna.alxafrica.com/certificates/93zXrxEHhM)**  
 ---
 
-## **📊 GitHub Activity**  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbenezerAbera7&show_icons=true&theme=prussian&hide_border=true)](https://github.com/AbenezerAbera7)  
+## **🚀 GitHub Stats**  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://streak-stats.demolab.com?user=AbenezerAbera7&theme=prussian&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAbera7&layout=compact&theme=prussian&hide_border=true" alt="Top Languages">
+</div>
 
 ---
 

@@ -61,6 +61,25 @@
 
 ---
 
+## **💻 Featured Projects**  
+
+### [AfroChat](https://afrochat.app/application/chat/home) - _Generative AI Platform_  
+🌍 Africa-focused AI chatbot supporting GPT-4o Mini, Claude 3.7, Gemini Pro, and other leading models  
+✨ Features: Multimodal access, writing assistance, image generation, coding support, PDF processing  
+🔧 Tech: React, Node.js, Python, AI model integration  
+
+### [Pipsqueak NetScan](https://app.pipsqueaknetscan.com/) - _Network Security Tool_  
+🛡️ Professional-grade network scan analyzer for IT security teams  
+📊 Visualizes scan data, identifies vulnerabilities, and enhances network visibility  
+🔧 Tech: Python, Django, Data visualization libraries  
+
+### [RateEat](https://rateeat.app/en) - _Food Discovery Platform_  
+🍴 Mobile-first restaurant review system focused on Ethiopian cuisine  
+⭐ Community-driven ratings for restaurants and individual menu items  
+🔧 Tech: React Native, Node.js, MongoDB  
+
+---
+
 ## **🏆 Achievements**  
 
 ✅ 500+ Problems Solved on **[LeetCode](https://leetcode.com/u/Beny623/)**  

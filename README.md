@@ -100,20 +100,17 @@ Vulnerability Scanning • Network Mapping • Risk Assessment
 
 ---
 
-### [<span style="color:#FF5722">🍴</span> RateEat](https://rateeat.app/en) - _Food Discovery Engine_  
-> Social food platform revolutionizing how East Africans discover restaurants and share culinary experiences through crowd-sourced reviews.  
+---
 
-<div style="margin-left: 20px;">
+## **💻 Featured Projects**
 
-📱 **Mobile Stack:**  
-<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">React Native</span> • 
-<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">Node.js</span> • 
-<span style="background:#263238;color:#fff;padding:2px 6px;border-radius:4px;">MongoDB</span>  
+| Project       | Description                          | Key Technologies                     |
+|---------------|--------------------------------------|--------------------------------------|
+| **[🌍 AfroChat](https://afrochat.app)** | Multimodal AI assistant for Africa | GPT-4/FastAPI/Next.js/RAG/Docker |
+| **[🛡 Pipsqueak](https://app.pipsqueaknetscan.com)** | Network security visualizer | Python/Django/DataViz/OWASP |
+| **[🍜 RateEat](https://rateeat.app)** | Social restaurant discovery | React Native/Node.js/MongoDB |
 
-✨ **Key Features:**  
-Menu-item Reviews • Personalized Recommendations • Social Sharing  
-
-</div>
+---
 
 ---
 

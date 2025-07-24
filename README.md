@@ -4,9 +4,17 @@
 📧 **Email:** [abenezer.abera623@gmail.com](mailto:abenezer.abera623@gmail.com)  
 📞 **Phone:** +251 936 308 989  
 🌐 **Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abenezer-abera7/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbenezerAbera7/)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Beny623)  
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
+  <a href="https://www.linkedin.com/in/abenezer-abera7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AbenezerAbera7/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://t.me/Beny623">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div>
 
 ---
 
@@ -48,6 +56,8 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 </div>
 
+---
+
 ## **🏆 Achievements**  
 
 ✅ **500+ Problems Solved** on **LeetCode & Codeforces**  
@@ -65,19 +75,6 @@
 ### **🔍 Visitor Count**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbenezerAbera7&color=blue&style=flat-square)  
-
----
-
-### **📌 Featured Repositories**  
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AbenezerAbera7&repo=your-repo&theme=prussian)](https://github.com/AbenezerAbera7/your-repo)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AbenezerAbera7&repo=another-repo&theme=prussian)](https://github.com/AbenezerAbera7/another-repo)  
-
----
-
-### **🎶 Currently Vibing To**  
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-profile)  
 
 ---
 

@@ -4,17 +4,8 @@
 📧 **Email:** [abenezer.abera623@gmail.com](mailto:abenezer.abera623@gmail.com)  
 📞 **Phone:** +251 936 308 989  
 🌐 **Connect:**  
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
-  <a href="https://www.linkedin.com/in/abenezer-abera7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/AbenezerAbera7/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://t.me/Beny623">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abenezer-abera7/) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Beny623)
 
 ---
 

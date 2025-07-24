@@ -11,8 +11,17 @@
 
 ## **🚀 GitHub Stats**  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbenezerAbera7&theme=prussian&hide_border=true)](https://github.com/AbenezerAbera7)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAbera7&layout=compact&theme=prussian&hide_border=true)](https://github.com/AbenezerAbera7)  
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div>
+    <img src="https://streak-stats.demolab.com?user=AbenezerAbera7&theme=prussian&hide_border=true" alt="GitHub Streak">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAbera7&layout=compact&theme=prussian&hide_border=true" alt="Top Languages">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=AbenezerAbera7&show_icons=true&theme=prussian&hide_border=true" alt="GitHub Stats">
+  </div>
+</div>
 
 ---
 

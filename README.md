@@ -81,7 +81,7 @@
 ## **🏆 Achievements**  
 
 ✅ 500+ Problems Solved on ***[LeetCode](https://leetcode.com/u/Beny623/)***  
-🎓 Bachelor’s Degree in Computer Science
+🎓 Bachelor’s Degree in Computer Science  
 📜 ***[Certified Software Engineer](https://savanna.alxafrica.com/certificates/93zXrxEHhM)***  
 🚀 ***Open-Source Contributor***  
 ---

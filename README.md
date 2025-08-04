@@ -58,9 +58,9 @@
 🌍 Africa-focused AI chatbot supporting GPT-4, Claude 3, Llama 3, and other leading models  
 ✨ Features: Multimodal access, writing assistance, image generation, coding support, PDF processing  
 🔧 **Tech:**  
-`LLM Integration` • `FastAPI` • `Retrieval Augmented Generation`  
-`Next.js` • `Flutter` • `Multimodal LLM` • `Prompt Engineering`  
-`PostgreSQL` • `Firebase` • `Docker` • `CI/CD Pipelines`  
+`LLM Integration`     • `FastAPI`     • `Retrieval Augmented Generation`  
+`Next.js`             • `Flutter`     • `Multimodal LLM`                  • `Prompt Engineering`  
+`PostgreSQL`          • `Firebase`    • `Docker`                          • `CI/CD Pipelines`  
 
 ### [Pipsqueak NetScan](https://app.pipsqueaknetscan.com/) - _Network Security Tool_  
 🛡️ Professional-grade network scan analyzer for IT security teams  

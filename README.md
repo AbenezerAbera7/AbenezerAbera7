@@ -4,7 +4,6 @@
 📧 **Email:** [abenezer.abera623@gmail.com](mailto:abenezer.abera623@gmail.com)  
 📞 **Phone:** +251 936 308 989  
 🌐 **Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abenezer-abera7/) 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Benu623)
 
 ---
@@ -87,12 +86,6 @@
 ---
 
 
-## **🚀 GitHub Stats**  
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://streak-stats.demolab.com?user=AbenezerAbera7&theme=prussian&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAbera7&layout=compact&theme=prussian&hide_border=true" alt="Top Languages">
-</div>
 
 ---
 

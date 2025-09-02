@@ -3,7 +3,8 @@
 
 📧 **Email:** [abenezer.abera623@gmail.com](mailto:abenezer.abera623@gmail.com)  
 🌐 **Connect:**  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Benu623)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Benu623)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abenezer-abera7/)
 
 ---
 

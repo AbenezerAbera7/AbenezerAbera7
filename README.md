@@ -11,7 +11,11 @@
   <a href="https://www.linkedin.com/in/abenezer-abera7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.upwork.com/freelancers/~0142f319824207d046">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
 </p>
+
 
 ---
 
@@ -106,18 +110,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbenezerAbera7&color=blue&style=flat-square)  
 
----
-## **📊 GitHub Stats & Main Languages**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbenezerAbera7&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="Abenezer's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAbera7&layout=compact&theme=tokyonight&cache_seconds=7200" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbenezerAbera7&theme=tokyonight&date_format=M%20j%5B,%20Y%5D&cache_seconds=7200" alt="GitHub Streak" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/AbenezerAbera7/AbenezerAbera7/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Graph"/>
-</p>
 
 
 

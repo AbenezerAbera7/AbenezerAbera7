@@ -80,7 +80,7 @@
 
 ✅ 500+ Problems Solved on ***[LeetCode](https://leetcode.com/u/Beny623/)***  
 🎓 Bachelor’s Degree in Computer Science  
-📜 ***[Certified Software Engineer](https://savanna.alxafrica.com/certificates/93zXrxEHhM)***  
+📜 ***[ALX Certified Software Engineer](https://savanna.alxafrica.com/certificates/93zXrxEHhM)***  
 ☁️ ***[AWS Certified Cloud Practitioner](https://www.credly.com/badges/92bd7c3a-ad1e-46cc-913a-04e29c7c7272)***  
 🚀 ***Open-Source Contributor***  
 ---

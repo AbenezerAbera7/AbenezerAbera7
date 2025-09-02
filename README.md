@@ -95,10 +95,8 @@
 
 ## **📊 GitHub Stats & Main Languages**  
 
-![Abenezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbenezerAbera7&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAbera7&layout=compact&theme=tokyonight)  
-
----
+![Abenezer's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbenezerAbera7&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbenezerAbera7&layout=compact&theme=tokyonight)  
 
 
 ---

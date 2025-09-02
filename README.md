@@ -100,6 +100,13 @@
 
 
 ---
+## **📊 GitHub Stats & Main Languages**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbenezerAbera7&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="Abenezer's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbenezerAbera7&layout=compact&theme=tokyonight&cache_seconds=7200" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbenezerAbera7&theme=tokyonight&date_format=M%20j%5B,%20Y%5D&cache_seconds=7200" alt="GitHub Streak" height="150"/>
+</p>
 
 ### **🔍 Visitor Count**  
 
